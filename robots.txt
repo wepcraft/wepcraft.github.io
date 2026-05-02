@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://wepcraft.github.io/sitemap.xml
+
+# Block unnecessary files
+Disallow: /README.md
